@@ -384,7 +384,6 @@ body {
   font-weight: 600;
 }
 
-/* Sponsor Section Styles */
 .sponsor-content {
   display: flex;
   align-items: flex-start;
@@ -425,7 +424,6 @@ body {
   line-height: 1.6;
 }
 
-/* Contact Section Styles */
 .contact-icons {
   display: flex;
   gap: var(--spacing-lg);
