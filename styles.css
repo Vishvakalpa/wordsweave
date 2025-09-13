@@ -76,6 +76,8 @@ body {
 }
 
 .nav-logo {
+  position:relative;
+  top: 7.5px;
   font-size: 1.8rem;
 }
 
